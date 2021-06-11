@@ -3,7 +3,7 @@
 
 ## I'm a Data Scientist and Life Long Learner!
 - 🔭 I’m currently working on upping my algorithm game.
-- 🌱 I’m currently learning anything and everything.
+- 🌱 I’m currently learning how to use AWS' Elastic Beanstalk to deploy an app that generates visualizations from incoming data streams.
 - ⚡ Fun fact: I love to dance 🩰
 
 ---
